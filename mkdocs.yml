@@ -1,15 +1,15 @@
 # Project information
 site_name: CLRS Solutions
 site_description: Solutions to Introduction to Algorithms Third Edition. CLRS Solutions. The textbook that a Computer Science (CS) student must read.
-site_author: P.-Y. Chen
-site_url: https://walkccc.me/CLRS
+site_author: Chaganti Reddy
+site_url: https://Reddy.me/CLRS
 
 # Repository
-repo_name: walkccc/CLRS
-repo_url: https://github.com/walkccc/CLRS
+repo_name: Chaganti-Reddy/Cormen-Sol
+repo_url: https://github.com/Chaganti-Reddy/Cormen-Sol
 
 # Copyright
-copyright: Built by <a href="http://github.com/walkccc">P.-Y. Chen</a> &copy; 2017 - 2022
+copyright: Built by <a href="http://github.com/Chaganti-Reddy">Chaganti Reddy</a> &copy; 2017 - 2022
 
 # Configuration
 theme:
@@ -31,11 +31,9 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-square
-      link: https://github.com/walkccc
+      link: https://github.com/Chaganti-Reddy
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/walkccc/
-    - icon: fontawesome/solid/code
-      link: https://walkccc.me/LeetCode
+      link: https://www.linkedin.com/in/chaganti-venkataramireddy-1a7130203/
   analytics:
     provider: google
     property: G-117404761-1
